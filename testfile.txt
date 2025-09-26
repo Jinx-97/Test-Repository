@@ -1,0 +1,3 @@
+This is the another file in test remote repository.
+
+Now we'll clone this to our local.
